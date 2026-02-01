@@ -3,7 +3,7 @@ package core.basesyntax;
 public class Bulldozer extends Machine {
     @Override
     public  void doWork() {
-        System.out.println("Bulldozeris working");
+        System.out.println("Bulldozer is working");
     }
 
     @Override
